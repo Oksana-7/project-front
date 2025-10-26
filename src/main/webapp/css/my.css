@@ -1,0 +1,14 @@
+table {
+    background: #66c3cc;
+    margin: 20px;
+}
+th, td {
+    border: 2px solid #2d2b2b;
+    border-collapse: separate;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
